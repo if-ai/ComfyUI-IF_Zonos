@@ -1,0 +1,16 @@
+python-dotenv
+accelerate
+transformers
+aiofiles
+hf-transfer
+huggingface-hub
+safetensors
+torchaudio
+inflect
+kanjize 
+phonemizer
+sudachidict_full
+tokenizers
+tqdm
+jaraco-functools
+typeguard
