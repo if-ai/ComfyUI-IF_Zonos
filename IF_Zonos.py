@@ -181,4 +181,4 @@ class IF_ZonosTTS:
             raise e
 
 NODE_CLASS_MAPPINGS = {"IF_ZonosTTS": IF_ZonosTTS}
-NODE_DISPLAY_NAME_MAPPINGS = {"IF_ZonosTTS": "Zonos Text to Speech 🎤" 
+NODE_DISPLAY_NAME_MAPPINGS = {"IF_ZonosTTS": "Zonos Text to Speech 🎤" }
